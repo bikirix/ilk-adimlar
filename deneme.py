@@ -1,23 +1,16 @@
-print("hello world")
+s1 = int(input("ilk sayi:"))
 
-giriş
-
-s1 = int(input("birinci sayı giriniz:"))
-s2 = int(input("ikinci sayı giriniz:"))
+s2 = int(input("ikinci sayi:"))
 
 
-#işlem
+toplama = s1 + s2
+çıkarma = s1 - s2
+çarpmak = s1 * s2
 
-top = s1 + s2
-    çık = s1 - s2
-çarp= s1 * s2
+print("-----SONUÇLAR-----")
+print("toplama", toplama)
+print("farkı", çıkarma)
+print("çarpımı", çarpmak)
 
-#çıkış
-
-print("-------")
-    print("top",toplama sonucu)
-        print("çık",çıkarma sonucu)
-            print("çarp",çarpım sonucu)
-            
             
             
